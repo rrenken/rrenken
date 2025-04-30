@@ -1,47 +1,37 @@
-# 👋 Hi, I'm Ryan Renken
+# Ryan Renken
 
-I'm a data scientist with dual Master’s degrees in **Data Science** and **Business Analytics**, specializing in predictive modeling, deep learning, and analytics. I combine technical depth with real-world experience to build scalable, data-driven solutions that drive insights and impact.
+## 🧾 Academic & Professional Background
 
-🚀 Now transitioning from academia back to industry in the **Chicago** area, I am eager to apply my technical expertise and collaborative mindset to impactful machine learning projects.
+- 🎓 **M.S. in Data Science**, Bowling Green State University, *Bowling Green, OH* (2025)  
+  &nbsp;&nbsp;&nbsp;&nbsp;• 🧠 **Graduate Research Assistant** — Collaborate with faculty on research initiatives, performing data analysis using statistical methods and software to support academic projects   
+  &nbsp;&nbsp;&nbsp;&nbsp;• 👨‍🏫 **Teaching Instructor** — Served as an instructor for undergraduate courses in the Applied Statistics and Operations Research department
 
----
+- 🎓 **M.S. in Business Analytics**, Benedictine University, *Lisle, IL* (2022)
 
-## ⚾ Featured Projects
-
-### 🧠 [MLB Pitch Prediction Transformer](https://github.com/rrenken/pitch-recommendation)
-> A decoder-only transformer model to predict the next pitch type in baseball games, trained on sequential pitch-by-pitch data.
-
-### ✈️ [Airline Customer Segmentation via Autoencoders](https://github.com/rrenken/airline-survey)
-> Performed dimensionality reduction and clustering on high-dimensional, sparse survey data to uncover customer segments in the airline industry.
-
-🔗 Explore more on [my portfolio site »](https://rrenken.github.io/ryan-renken/)
+- 💼 **Data Analyst Intern**, Analytics8, *Chicago, IL*  
+  Developed and implemented customized dashboards and analytical applications to support strategic decision-making processes.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Core Data Science Skills & Tools
 
-| 💻 Languages | 📚 Libraries | ☁️ Platforms & Tools |
-|--------------|---------------|---------------------|
-| Python • R • SQL | PyTorch • scikit-learn • Pandas • Matplotlib • ggplot2 | Docker • Power BI • Snowflake • Spark/Hadoop • Jupyter • LaTeX |
+| **Skill Area**         | **Tools, Libraries & Languages**                                                                                                                                                                      |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Machine Learning**   | [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B0A?logo=xgboost&logoColor=white)](https://xgboost.ai) [![GridSearchCV](https://img.shields.io/badge/-GridSearchCV-003366)](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) |
+| **Deep Learning**      | [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)                                                                                           |
+| **Python Ecosystem**   | [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org) [![Statsmodels](https://img.shields.io/badge/-Statsmodels-003366)](https://www.statsmodels.org) [![matplotlib](https://img.shields.io/badge/-matplotlib-11557C)](https://matplotlib.org) |
+| **R Ecosystem**        | [![caret](https://img.shields.io/badge/-caret-276DC3)](https://topepo.github.io/caret/) [![dplyr](https://img.shields.io/badge/-dplyr-276DC3)](https://dplyr.tidyverse.org) [![tidyr](https://img.shields.io/badge/-tidyr-276DC3)](https://tidyr.tidyverse.org) |
+| **Data Visualization** | [![matplotlib](https://img.shields.io/badge/-matplotlib-11557C)](https://matplotlib.org) [![seaborn](https://img.shields.io/badge/-seaborn-4B8BBE)](https://seaborn.pydata.org) [![plotly](https://img.shields.io/badge/-plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com) [![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3)](https://ggplot2.tidyverse.org) [![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com) |
+| **SQL & Databases**    | [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com) [![Snowflake](https://img.shields.io/badge/-Snowflake-56B9DA?logo=snowflake&logoColor=white)](https://www.snowflake.com) |
+| **Notebooks & IDEs**   | [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org) [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) |
+| **Version Control**    | [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com) [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com) |
+| **Environments & Packaging** | [![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white)](https://docs.conda.io) [![pip](https://img.shields.io/badge/-pip-3775A9?logo=python&logoColor=white)](https://pip.pypa.io) [![venv](https://img.shields.io/badge/-venv-003366)](https://docs.python.org/3/library/venv.html) [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com) |
 
----
-
-## 📊 Core Skills
-
-- 🤖 Machine Learning & Deep Learning  
-- 📈 Predictive Modeling & Forecasting    
-- 🔍 Data Mining & Feature Engineering  
-- 🔄 Clustering & Segmentation  
-- 📊 Model Evaluation & Validation
-- ⚾ Sports Analytics & Game Strategy  
-- 🗣 Communication & Collaboration
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 [Website](https://rrenken.github.io/ryan-renken/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/r-renken/)
-- 📬 Email: rrenken0513@gmail.com
-
----
+- 🌐 [**Portfolio Website**](https://rrenken.github.io/ryan-renken)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/r-renken)  
+- 📬 **Email**: rrenken0513@gmail.com
