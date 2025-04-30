@@ -1,17 +1,29 @@
 # Ryan Renken
 
+[![🌐 Website](https://img.shields.io/badge/-Portfolio-1a1a1a?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://rrenken.github.io/ryan-renken)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-renken)
+[![📬 Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrenken0513@gmail.com)
+
+
+
 ## 🧾 Academic & Professional Background
 
-- 🎓 **M.S. in Data Science**, Bowling Green State University, *Bowling Green, OH* (2025)  
-  &nbsp;&nbsp;&nbsp;&nbsp;• 🧠 **Graduate Research Assistant** — Collaborate with faculty on research initiatives, performing data analysis using statistical methods and software to support academic projects   
-  &nbsp;&nbsp;&nbsp;&nbsp;• 👨‍🏫 **Teaching Instructor** — Served as an instructor for undergraduate courses in the Applied Statistics and Operations Research department
+- 🎓 **M.S. in Data Science**  
+  *Bowling Green State University, Bowling Green, OH (Expected 2025)*  
+  - 🧠 **Graduate Research Assistant**  
+    Collaborated with faculty on research initiatives, performing data analysis using statistical methods and software to support academic projects  
+  - 👨‍🏫 **Teaching Instructor**  
+    Served as an instructor for undergraduate courses in the Applied Statistics and Operations Research department
 
-- 🎓 **M.S. in Business Analytics**, Benedictine University, *Lisle, IL* (2022)
+- 🎓 **M.S. in Business Analytics**  
+  *Benedictine University, Lisle, IL (2022)*
 
-- 💼 **Data Analyst Intern**, Analytics8, *Chicago, IL*  
-  Developed and implemented customized dashboards and analytical applications to support strategic decision-making processes.
+- 💼 **Data Analyst Intern**  
+  *Analytics8, Chicago, IL*  
+  Developed and implemented customized dashboards and analytical applications to support strategic decision-making processes
 
----
+
+
 
 ## 🛠 Core Data Science Skills & Tools
 
@@ -28,7 +40,6 @@
 | **Environments & Packaging** | [![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white)](https://docs.conda.io) [![pip](https://img.shields.io/badge/-pip-3775A9?logo=python&logoColor=white)](https://pip.pypa.io) [![venv](https://img.shields.io/badge/-venv-003366)](https://docs.python.org/3/library/venv.html) [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com) |
 
 
----
 
 ## 📫 Let's Connect
 
